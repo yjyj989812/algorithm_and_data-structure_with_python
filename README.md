@@ -1,2 +1,2 @@
-# algorithm_and_data-structure_with_python
-This repository are code implemented for data structure and algorithm practice.
+# algorithm & data-structure pretice with python
+`누구나 자료구조와 알고리즘 개정2판`을 기반으로 구현한 자료구조와 알고리즘입니다.
